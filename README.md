@@ -3,6 +3,7 @@ Maestro en Ciencias Biológicas de la UNAM (México) y licenciado en biología p
 
 - 🔭 Actualmente estoy trabajando en el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt
 - 🌱 Estoy aprendiendo [Data Science](https://github.com/ossu/data-science) y [R Avanzado](https://adv-r.hadley.nz/)
+- 💬 Preguntame sobre becas en México y como ir a estudiar allá
 
 
 <!--
