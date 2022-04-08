@@ -1,4 +1,9 @@
-### Hi there 👋
+### ¡Hola! :wave:
+Maestro en Ciencias Biológicas de la UNAM (México) y licenciado en biología por la UPN (Colombia). Estoy interesado en el entendimiento de la distribución de especies, evaluaciones de riesgo de invasión y planeación para la conservación. Con este fin hago un amplio uso de datos geográficos de la biodiversidad acumulados en literatura, museos y repositorios en línea, las que curo y combino con técnicas de la informática de la biodiversidad, SIG, herramientas cuantitativas y de programación (R y Python). Es así como he desarrollado modelos predictivos para plantas invasoras de alto impacto en México y he colaborado en proyectos que analizan los efectos del cambio climático en la distribución potencial de aves, así como en la identificación de sitios prioritarios para la conservación empleando modelos de nicho ecológico.
+
+- 🔭 Actualmente estoy trabajando en el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt
+- 🌱 Estoy aprendiendo [Data Science](https://github.com/ossu/data-science) y [R Avanzado](https://adv-r.hadley.nz/)
+
 
 <!--
 **cmunozr/cmunozr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
