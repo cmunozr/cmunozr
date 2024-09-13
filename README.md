@@ -1,11 +1,9 @@
-### ¡Hola! :wave:
-Estoy interesado en el entendimiento de la distribución de especies, evaluaciones de riesgo de invasión y planeación para la conservación. Con este fin hago un amplio uso de datos geográficos de la biodiversidad acumulados en literatura, museos y repositorios en línea, las que curo y combino con técnicas de la informática de la biodiversidad, SIG, herramientas cuantitativas y de programación (R y Python). Es así como he desarrollado modelos predictivos para plantas invasoras de alto impacto en México y he colaborado en proyectos que analizan los efectos del cambio climático en la distribución potencial de aves, así como en la identificación de sitios prioritarios para la conservación empleando modelos de nicho ecológico.
+### Hi! :wave:
 
-- 🔭 Actualmente estoy trabajando en el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt
-- 👯 En el Instituto he trabajado en muchas mas cosas: limpieza de datos, evaluación de efectividad de áreas protegidas, automatización de flujos de información y muchas más.
-- 🌱 Estoy aprendiendo [Data Science](https://github.com/ossu/data-science) y [R Avanzado](https://adv-r.hadley.nz/)
-- 🌱 Soy maestro en Ciencias Biológicas de la UNAM (México) y licenciado en biología por la UPN (Colombia).
-- 💬 Preguntame sobre becas en México y como ir a estudiar allá
+Passionate about safeguarding biodiversity and combating environmental degradation, I am a dedicated conservation scientist and global change ecologist. My commitment to science has been shaped by the urgent need to address unprecedented biodiversity loss worldwide. I am deeply interested in understanding how anthropological stressors impact natural systems across different scales and ecological levels, with a focus on devising effective strategies to mitigate devastating biodiversity losses. Currently, I am a doctoral student at Lund University, where I am actively involved in biodiversity research and management.
+
+- 👯 Experienced on: data cleaning, evaluating the effectiveness of protected areas, automating information workflows, and much more.
+- 🌱  I’m learning Biodiversity Finance and simulation
 
 
 <!--
@@ -13,6 +11,7 @@ Estoy interesado en el entendimiento de la distribución de especies, evaluacion
 
 Here are some ideas to get you started:
 
+- Estoy aprendiendo [Data Science](https://github.com/ossu/data-science) y [R Avanzado](https://adv-r.hadley.nz/)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
