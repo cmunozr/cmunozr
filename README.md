@@ -1,23 +1,7 @@
 ### Hi! :wave:
 
-Passionate about safeguarding biodiversity and combating environmental degradation, I am a dedicated conservation scientist and global change ecologist. My commitment to science has been shaped by the urgent need to address unprecedented biodiversity loss worldwide. I am deeply interested in understanding how anthropological stressors impact natural systems across different scales and ecological levels, with a focus on devising effective strategies to mitigate devastating biodiversity losses. Currently, I am a doctoral student at Lund University, where I am actively involved in biodiversity research and management.
+My name is Carlos Muñoz. Currently, I am a doctoral student in Environmental Science at Lund University (SE).
 
-- 👯 Experienced on: data cleaning, evaluating the effectiveness of protected areas, automating information workflows, and much more.
-- 🌱  I’m learning Biodiversity Finance and simulation
+### Research interests
 
-
-<!--
-**cmunozr/cmunozr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- Estoy aprendiendo [Data Science](https://github.com/ossu/data-science) y [R Avanzado](https://adv-r.hadley.nz/)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my research, I am developing and using quantitative models to estimate and predict biodiversity impacts and management. I am particularly interested in evaluating biodiversity metrics to assess how accurately they reflect actual biodiversity states, trends and effectiveness in different management scenarios. I also envision to apply modelling, and optimization approaches to enhance management strategies across various industries impacting biodiversity and validate these methods through case studies, aiming to minimize adverse effects while considering associated uncertainties. 
