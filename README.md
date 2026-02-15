@@ -1,6 +1,4 @@
-### Hi! :wave:
-
-My name is Carlos Muñoz. Currently, I am a doctoral student in Environmental Science at Lund University (SE).
+Currently, I am a doctoral student in Environmental Science at Lund University (SE).
 
 ### Research interests
 
